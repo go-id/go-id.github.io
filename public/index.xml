@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Recent Content on Komunitas Go Indonesia </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://go-id.github.io/index.xml/</link>
+    <language>id-id</language>
+    
+    
+    <updated>Tue, 25 Nov 2014 13:17:59 WIB</updated>
+    
+    <item>
+      <title>about</title>
+      <link>http://go-id.github.io/about/</link>
+      <pubDate>Tue, 25 Nov 2014 13:17:59 WIB</pubDate>
+      
+      <guid>http://go-id.github.io/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;toc_0&#34;&gt;About&lt;/h2&gt;
+
+&lt;p&gt;Komunitas Go Indonesia&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
